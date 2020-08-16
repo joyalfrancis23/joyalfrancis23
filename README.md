@@ -7,7 +7,7 @@
 - 🔭 I’m currently studing B.Tech in Computer Engineering.
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate this year
-- 🤔 I’m looking for help with Flutter and dart
+- 🤔 I’m looking for help with Competitive programming
 - 💬 Ask me about anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/heir__to_the__throne/?hl=en)
 - 😄 Pronouns: He/Him
