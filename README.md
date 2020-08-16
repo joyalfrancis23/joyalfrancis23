@@ -21,5 +21,9 @@
 <img align="left" alt="Git" width="26px" src="https://png2.cleanpng.com/sh/eb8b94e92a2765ed98b03d21560ae767/L0KzQYm3VcE2N6Z8R91yc4Pzfri0gvF0cF5sgeY2Y3BwgMb7hgIucZR0huU2aX72hLLzjPF1cZDzRdV4bX3kfrW0jPlvbV46edhqY3G7cYS8VfJkOl83TqI6M0K7QIK8UsY0QGY3UaI7MUi5PsH1h5==/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a355bc2.2601328015263852902186.png" />
 <img align="left" alt="Flutter" width="26px" src="https://miro.medium.com/max/250/1*D5afxg0H9xyxfqRq_bfTgQ.png" />
 <img align="left" alt="FireBase" width="26px" src="https://png2.cleanpng.com/sh/9e4541df87ed738598d43310ee84947e/L0KzQYm3VME4N6dxiZH0aYP2gLBuTfZqepZneeVuLXPvf8brTf1me6Rmf9t3Zz3mf773lgRmel5ue9H3cz3qf7FujPUua510RdlydHj4cn68gfQ2bGRofaZvY0S5QHA7V8MxO2Q5TKMAMkO8RoOBU8A0Omc8RuJ3Zx==/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3ce4fc460.4730334415239628303267.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
