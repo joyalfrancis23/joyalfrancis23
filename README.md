@@ -1,8 +1,8 @@
 ### Hi there i am Joyal Francis👋
 
 [![Website](https://img.shields.io/website?down_color=light%20green&down_message=www.joyalfrancis.co&label=JOYAL%20FRANCIS&style=for-the-badge&up_color=green&url=https%3A%2F%2Fjoyalfrancis.co%2F)](https://joyalfrancis.co/)
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> | ```https://www.instagram.com/heir__to_the__throne/?hl=en```
-
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
+[![Website](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://joyalfrancis.co/)
 ## I'm an aspiring future software engineer
 
 - 🔭 I’m currently studing B.Tech in Computer Engineering.
