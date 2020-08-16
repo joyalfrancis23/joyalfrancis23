@@ -32,7 +32,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://png2.cleanpng.com/sh/6c8bd39b9560ab4b2c341eaaf735a7fd/L0KzQYm3VcEzN6RufZH0aYP2gLBuTfJwd6V4jORqcD31dcT3jB50cadqReluYj3ndcTwhB4uf5ZnRdZudnXvf8H0hf51NZ10RadqZka6RrS3V8U2O2c2RqgEMUi4Q4SBUcUzPmI1SagENkS7QIe1kP5o/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c0755361.6918533815261016964806.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://png2.cleanpng.com/sh/613c992240b6841403cacd53e4b23fff/L0KzQYm3WMA5N6Z8fpH0aYP2gLBuTfJwd6V4jORqcD32c7LzgfJtbV57fdV9b4Kwd8PokPhqa6Qye95ycD3kgsW0jP9od15rhAR2YYTsf7A0gv9wfKR5itN5LXHzf73zj71nd6NyeeZyb36wfH7ojgAuaaF0i58AYkbkSIqCVvVkQWM5SJCAM0K0R4KAV8E2O2Q8SKoBOUS8Roq1kP5o/kisspng-bootstrap-scalable-vector-graphics-clip-art-logo-formation-bootstrap-apollo-formation-l-amp-apos-5b6a8996ec9240.532171771533708694969.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
