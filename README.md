@@ -1,6 +1,6 @@
 ### Hi there i am Joyal Francis👋
 
-
+[![Website](https://img.shields.io/website?down_color=light%20green&down_message=www.joyalfrancis.co&label=JOYAL%20FRANCIS&style=for-the-badge&up_color=green&url=https%3A%2F%2Fjoyalfrancis.co%2F)](https://joyalfrancis.co/)
 
 ## I'm an aspiring future software engineer
 
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate this year
 - 🤔 I’m looking for help with Flutter and dart
 - 💬 Ask me about anything
-- 📫 How to reach me: [Instagram](https://joyalfrancis.co/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/heir__to_the__throne/?hl=en)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to music while i code.
 
