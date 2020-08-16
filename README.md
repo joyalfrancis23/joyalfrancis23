@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate this year
 - 🤔 I’m looking for help with Competitive programming
 - 💬 Ask me about anything
-- 📫 How to reach me: [Instagram](https://www.instagram.com/heir__to_the__throne/?hl=en)
+- 📫 How to reach me: via [Instagram](https://www.instagram.com/heir__to_the__throne/?hl=en)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to music while i code.
 
