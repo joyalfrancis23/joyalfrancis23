@@ -21,16 +21,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
 
-
-### Spotify Playing 🎧:
-
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Joyal Francis Spotify Playing" width="350" />](https://open.spotify.com/user/bda155f9553344afbc08ee28d9047c50)
-
-
-<br/>
 <br>
 ### Languages and Tools:
 
@@ -47,7 +38,16 @@
 
 <br/>
 
+<br>
 
+
+### Spotify Playing 🎧:
+
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Joyal Francis Spotify Playing" width="350" />](https://open.spotify.com/user/bda155f9553344afbc08ee28d9047c50)
+
+
+<br/>
 
 [website]: https://joyalfrancis.co/
 [twitter]: https://twitter.com/joyalfrancis23
