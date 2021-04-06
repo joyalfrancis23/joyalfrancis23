@@ -13,7 +13,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to music while i code.
 <br />
+<br>
 
+
+### Spotify Playing 🎧:
+
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Joyal Francis Spotify Playing" width="350" />](https://open.spotify.com/user/bda155f9553344afbc08ee28d9047c50)
+
+
+<br/>
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -36,16 +45,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br/>
-<br>
 
-
-### Spotify Playing 🎧:
-
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Joyal Francis Spotify Playing" width="350" />](https://open.spotify.com/user/bda155f9553344afbc08ee28d9047c50)
-
-
-<br/>
 
 
 [website]: https://joyalfrancis.co/
