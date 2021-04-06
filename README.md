@@ -46,8 +46,7 @@
 
 [<img src="https://novatorem-joyalfrancis23.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jt71mmd50xv0q7j3nfgclynrd)
 
-[![Spotify](https://jt71mmd50xv0q7j3nfgclynrd.vercel.app/api/spotify)](https://open.spotify.com/user/jt71mmd50xv0q7j3nfgclynrd)
-<br/>
+
 
 [website]: https://joyalfrancis.co/
 [twitter]: https://twitter.com/joyalfrancis23
