@@ -44,8 +44,8 @@
 
 ### Spotify Playing 🎧:
 
-[<img src="https://novatorem-eight-smoky.vercel.app/api/spotify-playing" alt="Joyal Spotify Playing" width="350" />]
-(https://open.spotify.com/user/bda155f9553344afbc08ee28d9047c50)
+[<img src="https://novatorem-git-master-joyalfrancis23.vercel.app/api/spotify-playing" alt="Joyal Spotify Playing" width="350" />]
+(https://open.spotify.com/user/jt71mmd50xv0q7j3nfgclynrd)
 
 
 <br/>
