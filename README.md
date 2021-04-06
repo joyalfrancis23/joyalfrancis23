@@ -26,9 +26,9 @@
 
 <img align="left" alt="C Program" width="26px" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />
 <img align="left" alt="Dart" width="26px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" />
-<img align="left" alt="Git" width="26px" src="https://drive.google.com/file/d/11Mq_K9ykWk8u_s5qaSXphl5WJCEyT4C6/view?usp=sharing" />
+<img align="left" alt="Git" width="26px" src="https://www.logolynx.com/images/logolynx/4f/4f5f6684ab7fb6b3f7be735e31803c84.png" />
 <img align="left" alt="Flutter" width="26px" src="https://miro.medium.com/max/250/1*D5afxg0H9xyxfqRq_bfTgQ.png" />
-<img align="left" alt="FireBase" width="26px" src="https://png2.cleanpng.com/sh/9e4541df87ed738598d43310ee84947e/L0KzQYm3VME4N6dxiZH0aYP2gLBuTfZqepZneeVuLXPvf8brTf1me6Rmf9t3Zz3mf773lgRmel5ue9H3cz3qf7FujPUua510RdlydHj4cn68gfQ2bGRofaZvY0S5QHA7V8MxO2Q5TKMAMkO8RoOBU8A0Omc8RuJ3Zx==/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3ce4fc460.4730334415239628303267.png" />
+<img align="left" alt="FireBase" width="26px" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png?compress=1&resize=800x600" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
