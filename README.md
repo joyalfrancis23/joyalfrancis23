@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to music while i code.
 <br />
-<br>
+
 
 ### Spotify Playing 🎧:
 
