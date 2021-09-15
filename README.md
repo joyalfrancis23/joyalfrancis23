@@ -14,6 +14,7 @@
 - ⚡ Fun fact: I love listening to music while i code.
 
 
+
 ### Spotify Playing 🎧:
 
 [<img src="https://novatorem-joyalfrancis23.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jt71mmd50xv0q7j3nfgclynrd)
