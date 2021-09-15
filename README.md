@@ -12,7 +12,6 @@
 - 📫 How to reach me: via [Instagram](https://www.instagram.com/heir__to_the__throne/?hl=en)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to music while i code.
-<br />
 
 
 ### Spotify Playing 🎧:
